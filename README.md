@@ -7,6 +7,8 @@
   Estou em constante evolução para me tornar um profissional completo e inovador na área.
 </p>
 
+Acesse meu Portfólio: https://1faeell.github.io./portfolio/
+
 <!-- Habilidades & Ferramentas -->
 <div align="center">
 <!--   <h2 align="center">🚀 Habilidades & Ferramentas</h2> -->
